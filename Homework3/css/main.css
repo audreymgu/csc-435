@@ -20,3 +20,20 @@ h1 {
 	background-color: #fcc;
 	font-style: italic;
 }
+
+.circle {
+	height: 50px;
+	width: 50px;
+	background-color: red;
+	border-radius: 25px;
+	position: absolute;
+	left: 175px;
+	bottom: 0px;
+}
+
+.existential-prison {
+	height: 300px;
+	width: 400px;
+	border: 2px dashed gray;
+	position: relative;
+}

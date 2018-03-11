@@ -42,7 +42,6 @@ window.onload = function() {
 function ComputeClick() {
   let earnedList = document.querySelectorAll("input.earned");
   let maxList = document.querySelectorAll("input.max");
-  let scoreList = [];
   let sum = 0;
   let finalAverage = 0;
 
