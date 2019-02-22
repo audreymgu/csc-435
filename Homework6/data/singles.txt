@@ -1,0 +1,54 @@
+Ada Lovelace,fp,96,ISTJ,lin,24,99,mpfpnb
+Adele Goldberg,fp,65,ENFJ,win,50,70,mpfp
+Alan Turing,mp,41,ESTP,mac,31,50,mp
+Anakin Skywalker,mp,27,INTJ,lin,15,30,mpfp
+Angry Video Game Nerd,mp,29,ISTJ,mac,1,99,mpfp
+Anita Borg,fp,54,ISFP,win,41,55,mp
+Barbara Liskov,fp,71,ESFJ,mac,41,Lara Croft76,mp
+Bill Gates,mp,52,INTJ,win,2,99,fp
+Bill Joy,mp,54,ENFP,lin,50,70,mpfp
+Bjarne Stroustroup,mp,59,INFJ,win,40,62,mpfp
+Borg,mp,88,ISTJ,mac,88,88,mp
+Buffy Summers,fp,27,INTP,win,18,49,mpfp
+Charles Babbage,mp,79,ESFP,lin,30,82,fp
+Dana Scully,fp,41,ISTJ,mac,36,54,mpfp
+Deanna Troi,fp,53,ENFJ,mac,32,48,mpfp
+Donald Knuth,mp,70,INTJ,lin,12,17,mpfp
+Edsger Dijkstra,mp,72,ISTP,lin,16,58,fp
+Ellen Ripley,fp,35,ESFJ,lin,20,40,fp
+Frances Allen,fp,78,ESTP,lin,67,78,mp
+Gordon Moore,mp,81,ENFP,win,60,99,mpfp
+Grace Hopper,fp,87,ISFP,win,47,80,mpnb
+Jadzia Dax,fp,46,ENFJ,mac,18,32,mpfp
+James Gosling,mp,55,ESFJ,lin,18,40,fp
+Jeannette Wing,fp,38,INTP,mac,45,60,mp
+Kathryn Janeway,fp,49,ESTJ,win,30,55,fp
+Lara Croft,fp,23,ENTP,lin,18,30,mpfp
+Leeloo,fp,19,ISTJ,lin,1,99,mpfp
+Leia Organa,fp,53,ISFJ,win,20,60,mpfp
+Lenore Blum,fp,70,INTP,mac,66,99,mp
+Marissa Mayer,fp,35,ENTP,lin,20,40,mp
+Mary Lou Jepsen,fp,45,ISTJ,win,10,80,mpfp
+Ms. Frizzle,fp,39,ENTP,mac,19,49,mpfp
+Natalie Portman,fp,26,INFJ,mac,20,39,mp
+Niklaus Wirth,mp,76,ENFJ,win,50,77,mpfp
+Nostalgia Critic,mp,28,ENTJ,lin,12,79,mpfp
+Nyota Uhura,fp,77,ENFP,mac,70,99,mp
+Oldspice Guy,mp,36,ENTJ,win,1,99,fp
+Rasmus Lerdorf,mp,41,ENTP,lin,15,35,mpfp
+Richard Stallman,mp,57,ISFJ,lin,46,56,mpfp
+River Tam,fp,26,ENTJ,lin,18,25,fp
+Roberta Williams,fp,57,ENFP,win,54,67,mp
+Rosie O' Donnell,fp,46,ENFJ,win,30,50,fp
+Sarah Connor,fp,53,ISFP,win,49,67,mp
+Seven of Nine,fp,40,ISTJ,win,12,50,mpfp
+Stewie Griffin,mp,1,INTP,mac,1,59,mp
+Topal,fp,35,ISTJ,win,30,39,fp
+Trinity,fp,42,ESFP,lin,35,55,mp
+Tyler Durden,mp,46,ENFP,mac,20,39,mpfp
+Valentina Tereshkova,fp,71,ENTJ,mac,55,65,mp
+Vint Cerf,mp,67,ISFP,mac,28,55,mpfp
+Yukihiro Matsumoto,mp,45,ENTP,mac,10,25,mpfp
+Zelda,fp,59,ESTP,win,40,62,mpfp
+Samus Aran,fp,24,INTJ,mac,20,30,fpnb
+Audrey Gu,fpnb,22,INFJ,mac,20,30,fpnb
