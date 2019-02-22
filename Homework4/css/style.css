@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 14pt;
+}
+
+#puzzle-area {
+  display: grid;
+  grid-template-rows: repeat(4,100px);
+  grid-template-columns: repeat(4,100px);
+  /* position: relative; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+
+}
+
+.puzzle-piece {
+  /* position: absolute; */
+  display: table;
+  width: 90px;
+  height: 90px;
+  background-image: url("background.jpg");
+  border: 5px solid black;
+}
+
+#empty-piece {
+  /* position: absolute; */
+  display: table;
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.puzzle-piece p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 30pt;
+  font-weight: 800;
+  color: black;
+}
+
+.win-text {
+  color: red;
+}
